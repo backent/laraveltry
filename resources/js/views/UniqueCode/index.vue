@@ -20,7 +20,7 @@
             return {
                 code : null
             }
-        }
+        },
         mounted() {
             console.log('CODE!')
         }
